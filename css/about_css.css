@@ -1,4 +1,4 @@
- * {
+* {
    margin: 0;
    padding: 0;
    box-sizing: border-box;
@@ -97,13 +97,18 @@
  }
 
  footer {
-   /* position: sticky;
-   bottom: 0; */
    background: #6b2cf1;
    color: white;
    text-align: center;
-   padding: 9px;
+   padding: 10px;
    margin-top: 50px;
-
    font-size: 0.9rem;
+   position: fixed;
+   bottom: 0;
+   left: 0;
+   width: 100%;
  }
+
+
+
+

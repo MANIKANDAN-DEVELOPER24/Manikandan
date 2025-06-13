@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -28,9 +29,10 @@ header nav a {
   color: #333;
   font-weight: bold;
 }
+
 header nav a:hover {
-      color: #6b2cf1;
-    }
+  color: #6b2cf1;
+}
 
 .hero {
   display: flex;
@@ -106,10 +108,11 @@ header nav a:hover {
   width: 300px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
- .card:hover {
-     transform: translateY(-10px);
-     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
- }
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
 
 .card h3 {
   color: #6b2cf1;
@@ -206,14 +209,20 @@ header nav a:hover {
   }
 }
 
- footer {
-    /* position: sticky;
-     bottom: 0; */
-     background: #6b2cf1;
-     color: white;
-     text-align: center;
-     padding: 9px;
-     margin-top: 100px;
-     
-     font-size: 0.9rem;
- }
+footer {
+  background: #6b2cf1;
+  color: white;
+  text-align: center;
+  padding: 9px;
+  margin-top: 100px;
+  font-size: 0.9rem;
+}
+
+
+
+
+
+
+
+
+
